@@ -43,7 +43,7 @@ export default function About() {
             <div className="mb-12">
               <h2 className="text-2xl font-bold mb-6 flex items-center">
                 <Briefcase className="mr-2" />
-                Experience
+                Project
               </h2>
               <div className="space-y-6">
                 <div className="border-l-4 border-gray-200 pl-4">
