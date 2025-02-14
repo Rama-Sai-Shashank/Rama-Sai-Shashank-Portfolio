@@ -38,7 +38,24 @@ export default function About() {
                 </div>
               </div>
             </div>
-          </div>     
+          </div> 
+          <div>
+            <div className="mb-12">
+              <h2 className="text-2xl font-bold mb-6 flex items-center">
+                <Briefcase className="mr-2" />
+                Experience
+              </h2>
+              <div className="space-y-6">
+                <div className="border-l-4 border-gray-200 pl-4">
+                  <h3 className="font-semibold">Player Performance Forecasting in Cricket with Machine Learning Algorithms</h3>
+                  
+                  <p className="text-sm text-gray-500 mt-2">
+                   This project is all about the prediction of player performance in next 5 matches. The prediction is done for each player based on the past performance. This will be helpful for heads to select which player for the upcoming matches. This is just a mini project.
+                  </p>
+                  <p className="text-gray-600">https://drive.google.com/drive/folders/1YY7hzeO1Qw2BSVxpKjVtqTccdNsgryfm?usp=drive_link</p>
+                </div>
+              </div>
+            </div>
         </div>
       </div>
     </div>
